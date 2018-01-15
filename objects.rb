@@ -14,3 +14,6 @@ rohan.name = "Rohan"
 rajat.name = "Rajat"
 
 print rohan.say_hello
+
+print rohan.class
+print "\n"
