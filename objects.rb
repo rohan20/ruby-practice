@@ -17,3 +17,5 @@ print rohan.say_hello
 
 print rohan.class
 print "\n"
+
+print "Example of escape characters: \"Hello\" \n"
