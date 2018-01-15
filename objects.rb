@@ -19,3 +19,12 @@ print rohan.class
 print "\n"
 
 print "Example of escape characters: \"Hello\" \n"
+
+#This is a comment in Ruby
+
+#String Interpolation
+
+rohan.name = "Taneja"
+sentence = "Update your profile, #{rohan.name} \n"
+
+print sentence
