@@ -33,4 +33,12 @@ print "\n"
 	print footballers
 	print "\n"
 
+randomArray = ["string1", 2, "string2", 45, ["a", "b", "c"], 12.4]
+
+print randomArray[2]
+print "\n"
+
+print randomArray[4]
+print "\n"
+
 
