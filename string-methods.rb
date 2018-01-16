@@ -1,11 +1,9 @@
-print "dog".length
-print "\n"
-
-print "Welcome back, Elizabeth".count("e")
-print "\n"
-
-print "small".upcase
-print "\n"
-
-print "BIG".downcase
+uppercaseStatement = "BIG LETTERS"
+print "Without bang: \n"
+uppercaseStatement.downcase
+print uppercaseStatement
+print "\n\n"
+print "With bang: \n"
+uppercaseStatement.downcase!
+print uppercaseStatement
 print "\n"
