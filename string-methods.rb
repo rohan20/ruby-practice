@@ -7,3 +7,5 @@ print "With bang: \n"
 uppercaseStatement.downcase!
 print uppercaseStatement
 print "\n"
+
+puts "xyz" * 3
