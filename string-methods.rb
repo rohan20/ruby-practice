@@ -9,3 +9,7 @@ print uppercaseStatement
 print "\n"
 
 puts "xyz" * 3
+#puts puts a new line after printing
+
+print "xyz" * 4
+#print doesn't put a new line
