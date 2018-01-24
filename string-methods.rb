@@ -19,6 +19,6 @@ print "xyz" * 4
 var1 = '5'
 var2 = 2
 
-puts var1 * var2 //55
-puts var2 * var1 //error
-puts var1 + var2 //error
+puts var1 * var2 #55
+puts var2 * var1 #error
+puts var1 + var2 #error
